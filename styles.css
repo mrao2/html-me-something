@@ -1,0 +1,159 @@
+
+*{margin: 0; padding: 0; }
+
+body
+{
+    font-family: arial;
+    background-color: grey;
+}
+
+#header
+{
+  background-color: black;
+  height: 100px;
+  width: 100%;
+}
+
+.container
+{
+  width: 960px;
+  height: auto;
+  margin: 0 auto;
+}
+
+#picArea
+{
+  width: 373px;
+  height: 100px;
+  background: url(BlogLogo.png);
+  float: left;
+}
+
+#navArea
+{
+  height: 100px;
+  float: right;
+}
+
+#navArea li
+{
+  list-style-type: none !important;
+}
+
+#nav a
+{
+  color: white;
+  text-decoration: none;
+  margin-top: 30px;
+}
+
+#nav li
+{
+  float: left;
+  margin-left: 30px;
+  background-color: #252525;
+  padding: 10px;
+  border: 1px solid silver;
+  border-radius: 5px;
+}
+
+#nav li:hover
+{
+  background-color: grey;
+}
+
+.page
+{
+background-color: white;
+padding: 20px;
+}
+
+.Intro
+{
+background-color: white;
+padding: 20px;
+margin-top: 15px;
+margin-bottom: 15px;
+margin-left: 20px;
+margin-right: 20px;
+border-style: groove;
+border width: 5px;
+border-left-width: 5px;
+border-right-width: 5px;
+border-top-width: 5px;
+border-bottom-width: 5px;
+border-color: Black;
+
+}
+
+.studies
+{
+background-color: white;
+padding: 20px;
+margin-top: 15px;
+margin-bottom: 15px;
+margin-left: 20px;
+margin-right: 20px;
+border-style: groove;
+border width: 5px;
+border-left-width: 5px;
+border-right-width: 5px;
+border-top-width: 5px;
+border-bottom-width: 5px;
+border-color: Black;
+
+}
+
+.interests
+{
+background-color: white;
+padding: 20px;
+margin-top: 15px;
+margin-bottom: 15px;
+margin-left: 20px;
+margin-right: 20px;
+border-style: groove;
+border width: 5px;
+border-left-width: 5px;
+border-right-width: 5px;
+border-top-width: 5px;
+border-bottom-width: 5px;
+border-color: Black;
+
+}
+
+.future
+{
+background-color: white;
+padding: 20px;
+margin-top: 15px;
+margin-bottom: 15px;
+margin-left: 20px;
+margin-right: 20px;
+border-style: groove;
+border width: 5px;
+border-left-width: 5px;
+border-right-width: 5px;
+border-top-width: 5px;
+border-bottom-width: 5px;
+border-color: Black;
+
+}
+
+.links
+{
+background-color: white;
+padding: 20px;
+margin-top: 15px;
+margin-bottom: 15px;
+margin-left: 20px;
+margin-right: 20px;
+border-style: groove;
+border width: 5px;
+border-left-width: 5px;
+border-right-width: 5px;
+border-top-width: 5px;
+border-bottom-width: 5px;
+border-color: Black;
+
+}
